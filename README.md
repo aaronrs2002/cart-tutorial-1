@@ -6,9 +6,9 @@ Follow me through a basic introduction to writing a cart on the client side firs
 
 
 Required skills to complete tutorial:
-Basic JavaScript
-React.js
-React Hooks
-CSS
-Bootstrap 4 (using a Bootswatch theme)
-Font Awesome 5.8.2
+ Basic JavaScript,
+ React.js,
+ React Hooks,
+ CSS,
+ Bootstrap 4 (using a Bootswatch theme),
+ Font Awesome 5.8.2

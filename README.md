@@ -12,3 +12,9 @@ Required skills to complete tutorial:
  CSS,
  Bootstrap 4 (using a Bootswatch theme),
  Font Awesome 5.8.2
+
+Instructions:
+-Download and open zipped file
+-Navigate to "client" folder
+-Type "npm install" in your terminal to install node modules
+-Type "npm start" to start the web app
